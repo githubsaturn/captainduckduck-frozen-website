@@ -305,9 +305,9 @@ class Index extends React.Component {
             <div>
                 <HomeSplash language={language} />
 
-                <div style={{ backgroundColor: '#ff7d4f', padding: 15, textAlign:"center" }}>
-                    DEPRECATION NOTICE: CaptainDuckDuck is now updated, rebranded and distributed as CapRover. See <a
-                        href="https://caprover.com">CapRover.com</a> for details.
+                <div style={{ backgroundColor: '#ff7d4f', padding: 20, textAlign:"center"}}>
+              <b>   DEPRECATION NOTICE: CaptainDuckDuck is now updated, rebranded and distributed as CapRover. See <a
+                        href="https://caprover.com">CapRover.com</a> for details.</b>   
                 </div>
                 <div className="mainContainer">
                     <FeatureCallout/>

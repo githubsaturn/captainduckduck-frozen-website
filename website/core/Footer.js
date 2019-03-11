@@ -42,13 +42,13 @@ class Footer extends React.Component {
           <div>
             <h5>Community</h5>
               <a
-                  href="https://twitter.com/search?vertical=default&q=captainduckduck&src=typd"
+                  href="https://twitter.com/cap_rover"
                   target="_blank"
                   rel="noreferrer noopener">
                   Twitter
               </a>
               <a
-                  href="https://join.slack.com/t/captainduckduck/shared_invite/enQtNDEwMjc3MjcxNjUzLWQ4YjljN2JiMGU5Nzk5NjcwMDEzNDNiMTNkOTVhNTA4YTYwOThkNDkyMTlkMDFhMzAzOTA5YjcwY2E4NWRkYzk"
+                  href="https://join.slack.com/t/caprover/shared_invite/enQtNDEwMjc3MjcxNjUzLWQ4YjljN2JiMGU5Nzk5NjcwMDEzNDNiMTNkOTVhNTA4YTYwOThkNDkyMTlkMDFhMzAzOTA5YjcwY2E4NWRkYzk"
                   target="_blank"
                   rel="noreferrer noopener">
                   Slack Group
